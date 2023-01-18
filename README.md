@@ -1,7 +1,6 @@
-# Web-Group-Work
+# Movie Watch
 
 ## Group Members
-
 Name | ID | Section
 | :--- | ---: | :---:
 Michael Gahawtena  | UGR/3575/13 | 02

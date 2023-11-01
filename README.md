@@ -1,6 +1,9 @@
 # Movie Watch
 
-
+![Screenshot](./screenshots/home.png)
+![Screenshot](./screenshots/home2.png)
+![Screenshot](./screenshots/footer.png)
+![Screenshot](./screenshots/about.png)
 
 We choose Document database Technology because it has the following key features:
 
